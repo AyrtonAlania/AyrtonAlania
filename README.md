@@ -95,11 +95,7 @@
 ## 📈 Contribuciones
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyrtonAlania/AyrtonAlania/output/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyrtonAlania/AyrtonAlania/output/snake-light.svg"/>
-    <img src="https://raw.githubusercontent.com/AyrtonAlania/AyrtonAlania/output/snake-dark.svg" alt="Snake animation" width="100%"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/AyrtonAlania/AyrtonAlania/output/snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 
