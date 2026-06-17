@@ -1,11 +1,11 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:8B5CF6,50:6366F1,100:22D3EE&height=140&section=header&text=Ayrton%20Alania&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,6366F1,22D3EE&height=140&section=header&text=Ayrton%20Alania&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&height=60&lines=Desarrollador+Web+Full+Stack+%F0%9F%9A%80;DAW+%7C+2%C2%BA+A%C3%B1o+%E2%80%94+Titulaci%C3%B3n+en+camino+%F0%9F%8E%93;Frontend+%26+Backend%2C+de+la+idea+al+despliegue;Siempre+aprendiendo+algo+nuevo+%F0%9F%92%A1;PHP+%7C+JavaScript+%7C+React+%7C+Node.js" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&random=false&width=600&height=55&lines=Desarrollador+Web+Full+Stack;Frontend+%26+Backend+|+PHP+|+JS+|+React;Node.js+|+Python+|+Java+|+MySQL;De+la+idea+al+despliegue" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -128,16 +128,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyrtonAlania&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
----
-
 ## 📫 Contacto
 
 <div align="center">
@@ -168,5 +158,5 @@
 
 <!-- FOOTER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:22D3EE,50:6366F1,100:8B5CF6&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22D3EE,6366F1,8B5CF6&height=100&section=footer" width="100%"/>
 </div>
