@@ -136,6 +136,27 @@
 
 ---
 
+## 📐 My Dev Principles
+
+<div align="center">
+
+| | Principio | Descripción |
+|:---:|:---|:---|
+| 🧼 | **Clean Code** | Funciones < 30 líneas y nombres que no mientan |
+| 📖 | **Documentation** | JSDoc / PHPDoc / JavaDoc — siempre, sin excepciones |
+| 🏛️ | **Architecture** | SOLID + separación de capas (MVC / Clean Architecture) |
+| 🗃️ | **Database** | `snake_case`, soft delete y migraciones versionadas |
+| 🌐 | **API** | REST + respuestas JSON estandarizadas + versionado `/v1/` |
+| 🔒 | **Security** | Nunca secretos en el repo. Validar absolutamente todo input |
+| 🌿 | **Git** | Conventional Commits · ramas `feat/` `fix/` `refactor/` `docs/` |
+| 🧪 | **Testing** | Si es lógica de negocio crítica, está testeada |
+
+</div>
+
+<br/>
+
+---
+
 ## 🌱 Actualmente Aprendiendo
 
 <div align="center">
