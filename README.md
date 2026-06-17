@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayrton%20Alania&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Desarrollador%20Web%20Full%20Stack&descAlignY=58&descSize=22&descColor=6AD3F7" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:8B5CF6,50:6366F1,100:22D3EE&height=140&section=header&text=Ayrton%20Alania&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -12,7 +12,7 @@
 
 <!-- PORTADA GIF -->
 <div align="center">
-  <img src="./cover.gif" width="420" alt="Cover GIF"/>
+  <img src="./cover.gif" width="100%" alt="Cover GIF"/>
 </div>
 
 <br/>
@@ -168,5 +168,5 @@
 
 <!-- FOOTER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:22D3EE,50:6366F1,100:8B5CF6&height=100&section=footer" width="100%"/>
 </div>
