@@ -105,7 +105,7 @@
 <br/>
 
 <div align="center">
-  <img src="./profile-3d-contrib.svg" width="100%" alt="3D Contribution City"/>
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution City"/>
 </div>
 
 <br/>
