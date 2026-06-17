@@ -92,7 +92,7 @@
 
 ---
 
-## 🐍 Snake de Contribuciones
+## 📈 Contribuciones
 
 <div align="center">
   <picture>
@@ -103,10 +103,6 @@
 </div>
 
 <br/>
-
----
-
-## 🏙️ Ciudad 3D de Contribuciones
 
 <div align="center">
   <img src="./profile-3d-contrib.svg" width="100%" alt="3D Contribution City"/>
