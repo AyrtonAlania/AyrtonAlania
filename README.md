@@ -92,6 +92,30 @@
 
 ---
 
+## 🐍 Snake de Contribuciones
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyrtonAlania/AyrtonAlania/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyrtonAlania/AyrtonAlania/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/AyrtonAlania/AyrtonAlania/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+  </picture>
+</div>
+
+<br/>
+
+---
+
+## 🏙️ Ciudad 3D de Contribuciones
+
+<div align="center">
+  <img src="./profile-3d-contrib.svg" width="100%" alt="3D Contribution City"/>
+</div>
+
+<br/>
+
+---
+
 ## 🚀 Proyectos Destacados
 
 <div align="center">

@@ -1,0 +1,36 @@
+name: 3D Contribution City
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: |
+            {
+              "githubUserName": "AyrtonAlania",
+              "backgroundColor": "#0d1117",
+              "foregroundColor": "#22D3EE",
+              "contributionColorArray": ["#0d1117","#1e3a5f","#1d4ed8","#6366F1","#8B5CF6"],
+              "type": "NORMAL"
+            }
+
+      - name: Commit and push 3D graph
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: update 3D contribution graph"
+          git push
