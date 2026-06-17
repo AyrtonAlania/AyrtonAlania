@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,6366F1,22D3EE&height=140&section=header&text=Ayrton%20Alania&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
+  <img src="./banner.svg" width="100%" alt="Banner"/>
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -182,5 +182,5 @@
 
 <!-- FOOTER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22D3EE,6366F1,8B5CF6&height=100&section=footer" width="100%"/>
+  <img src="./footer.svg" width="100%" alt="Footer"/>
 </div>

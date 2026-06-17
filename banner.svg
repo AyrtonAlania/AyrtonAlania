@@ -1,0 +1,12 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#8B5CF6"/>
+      <stop offset="50%"  stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="140" fill="url(#grad)"/>
+  <path d="M0,90 C180,40 360,120 600,75 C840,30 1020,110 1200,65 L1200,140 L0,140 Z" fill="#0d1117" opacity="0.25"/>
+  <text x="600" y="78" font-family="'Segoe UI',Arial,sans-serif" font-size="38" font-weight="600" fill="white" text-anchor="middle" dominant-baseline="middle" letter-spacing="2">Ayrton Alania</text>
+</svg>
