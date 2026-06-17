@@ -18,14 +18,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "githubUserName": "AyrtonAlania",
-              "backgroundColor": "#0d1117",
-              "foregroundColor": "#22D3EE",
-              "contributionColorArray": ["#0d1117","#1e3a5f","#1d4ed8","#6366F1","#8B5CF6"],
-              "type": "NORMAL"
-            }
 
       - name: Commit and push 3D graph
         run: |
