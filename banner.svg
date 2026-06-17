@@ -6,7 +6,29 @@
       <stop offset="100%" stop-color="#22D3EE"/>
     </linearGradient>
   </defs>
+
   <rect width="1200" height="140" fill="url(#grad)"/>
-  <path d="M0,90 C180,40 360,120 600,75 C840,30 1020,110 1200,65 L1200,140 L0,140 Z" fill="#0d1117" opacity="0.25"/>
-  <text x="600" y="78" font-family="'Segoe UI',Arial,sans-serif" font-size="38" font-weight="600" fill="white" text-anchor="middle" dominant-baseline="middle" letter-spacing="2">Ayrton Alania</text>
+
+  <path fill="#0d1117" opacity="0.22">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"
+      values="M0,95 C200,45 400,125 600,78 C800,32 1000,112 1200,68 L1200,140 L0,140 Z;
+              M0,68 C200,112 400,32 600,95 C800,125 1000,45 1200,85 L1200,140 L0,140 Z;
+              M0,95 C200,45 400,125 600,78 C800,32 1000,112 1200,68 L1200,140 L0,140 Z"/>
+  </path>
+
+  <path fill="#0d1117" opacity="0.13">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"
+      values="M0,110 C180,65 380,135 600,90 C820,45 1020,125 1200,80 L1200,140 L0,140 Z;
+              M0,80 C180,125 380,55 600,110 C820,135 1020,55 1200,100 L1200,140 L0,140 Z;
+              M0,110 C180,65 380,135 600,90 C820,45 1020,125 1200,80 L1200,140 L0,140 Z"/>
+  </path>
+
+  <text x="600" y="74" font-family="'Segoe UI',Arial,sans-serif" font-size="36"
+        font-weight="600" fill="white" text-anchor="middle"
+        dominant-baseline="middle" letter-spacing="3" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    Ayrton Alania
+  </text>
 </svg>

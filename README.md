@@ -110,20 +110,35 @@
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/AyrtonAlania/zampa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonAlania&repo=zampa&theme=tokyonight&hide_border=true&show_owner=true" alt="Zampa"/>
-  </a>
-</div>
+
+### 🍽️ Zampa — SaaS para Restaurantes y Bares
+
+**Plataforma SaaS que digitaliza la experiencia completa de un restaurante o bar.**
+Los clientes acceden al menú digital vía **código QR** sin instalar nada.
 
 <br/>
 
-<div align="center">
+| ✨ Feature | Descripción |
+|:---|:---|
+| 🤖 **IA Chatbot** | Asistente entrenado con el menú del local (OpenAI GPT / Grok API) |
+| 📋 **Menú Digital** | Gestión de categorías, productos, ingredientes y alérgenos automáticos |
+| 🍳 **Pedidos en tiempo real** | Panel de cocina y barra con enrutado de pedidos por destino |
+| 💳 **Pagos integrados** | Stripe (tarjeta y efectivo) con propinas desglosadas por ítem |
+| 🗺️ **Gestión de mesas** | Drag & drop con formas personalizables y QR por mesa |
+| 👥 **Gestión de personal** | Asignación de camareros y cocineros por restaurante |
+| 🛡️ **Panel Superadmin** | Gestión de planes, activación de negocios y mapas con Leaflet.js |
+| 🧪 **Testing** | Suite completa con Pest PHP (unitarios + features) |
 
-| | Zampa |
-|:---:|:---|
-| 📌 **Descripción** | Aplicación web full stack desarrollada con tecnologías modernas |
-| 🛠️ **Stack** | <img src="https://skillicons.dev/icons?i=php,js,mysql,css&theme=dark&perline=4" height="28"/> |
-| 🌐 **Tipo** | Aplicación Web Full Stack |
+<br/>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwind,alpinejs,nodejs,vite&theme=dark&perline=7" alt="Zampa Stack"/>
+
+<br/>
+
+![Progress](https://img.shields.io/badge/Progreso-89%25%20completado-8B5CF6?style=for-the-badge)
+![Type](https://img.shields.io/badge/Tipo-SaaS%20Platform-22D3EE?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 </div>
 
